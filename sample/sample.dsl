@@ -17,4 +17,10 @@ control-flow
 
 dom heap-bound tracker #root el
 
+syntax highlight
+
+linter
+
 <
+
+div backgroundColor:red
