@@ -1,0 +1,12 @@
+{
+    "verbose": false,
+    "quiet": true,
+    "restartable": true,
+    "execMap": {
+        "js": "clear && node"
+    },
+    "watch": [
+        "test.mjs",
+        "modules/"
+    ]
+}
